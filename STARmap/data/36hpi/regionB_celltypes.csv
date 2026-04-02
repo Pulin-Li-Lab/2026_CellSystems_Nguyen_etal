@@ -1,0 +1,2840 @@
+x
+B-2,AlveolarFib
+B-3,Capillary
+B-4,LymphaticEndo
+B-5,Artery
+B-6,InterstitialMac
+B-7,Pericyte
+B-8,LymphaticEndo
+B-9,AT1
+B-12,Capillary
+B-15,LymphaticEndo
+B-16,Artery
+B-17,AT1
+B-18,AlveolarFib
+B-19,PatrolMac
+B-21,AlveolarFib
+B-22,AlveolarFib
+B-23,AT1
+B-24,Artery
+B-26,Pericyte
+B-28,Capillary
+B-30,ClubEpi
+B-31,InflamMac
+B-32,PatrolMac
+B-33,Capillary
+B-34,Capillary
+B-35,Capillary
+B-36,AdventitialFib
+B-37,InflamMac
+B-38,Capillary
+B-40,SMC
+B-41,Pericyte
+B-43,PatrolMac
+B-44,Artery
+B-46,AT1
+B-47,Bcell
+B-48,Artery
+B-49,Capillary
+B-50,Artery
+B-51,AdventitialFib
+B-52,AT1
+B-54,PatrolMac
+B-57,InflamMac
+B-58,AT2
+B-59,AlveolarFib
+B-60,Pericyte
+B-61,AlveolarFib
+B-62,Bcell
+B-63,Capillary
+B-64,AdventitialFib
+B-65,AT2
+B-66,AdventitialFib
+B-67,AlveolarFib
+B-68,CiliatedEpi
+B-69,LymphaticEndo
+B-70,Capillary
+B-71,AT1
+B-72,AdventitialFib
+B-73,Capillary
+B-76,AT2
+B-78,Artery
+B-79,Tcell (CD4)
+B-80,Artery
+B-81,pDC
+B-82,Artery
+B-84,AT1
+B-85,Capillary
+B-87,Artery
+B-88,Pericyte
+B-93,AT1
+B-94,AT1
+B-95,Pericyte
+B-97,Pericyte
+B-99,Artery
+B-101,LymphaticEndo
+B-104,Pericyte
+B-105,CiliatedEpi
+B-106,Capillary
+B-107,Pericyte
+B-110,Neutrophil
+B-111,AT2
+B-112,InflamMac
+B-113,AT1
+B-116,CiliatedEpi
+B-117,Bcell
+B-121,SMC
+B-126,Capillary
+B-130,AT1
+B-131,Bcell
+B-132,AlveolarFib
+B-133,ClubEpi
+B-134,Capillary
+B-136,Capillary
+B-137,AdventitialFib
+B-140,Capillary
+B-142,Pericyte
+B-143,LymphaticEndo
+B-144,Pericyte
+B-145,Capillary
+B-147,SMC
+B-148,CiliatedEpi
+B-149,Artery
+B-150,AT2
+B-151,LymphaticEndo
+B-152,InterstitialMac
+B-154,AT1
+B-155,Capillary
+B-159,SMC
+B-161,Capillary
+B-165,ClubEpi
+B-166,Capillary
+B-167,Artery
+B-170,Capillary
+B-171,Pericyte
+B-172,Bcell
+B-174,AT1
+B-178,AT1
+B-180,Capillary
+B-181,Capillary
+B-182,Artery
+B-183,AT1
+B-185,Capillary
+B-186,Artery
+B-188,AlveolarFib
+B-189,Artery
+B-192,InterstitialMac
+B-193,AT1
+B-195,AlveolarFib
+B-197,SMC
+B-198,Capillary
+B-202,Capillary
+B-203,AlveolarFib
+B-204,SMC
+B-206,Capillary
+B-207,AT2
+B-208,AT2
+B-209,Capillary
+B-210,Capillary
+B-211,DC
+B-213,LymphaticEndo
+B-214,AT1
+B-215,CiliatedEpi
+B-217,AT2
+B-218,PatrolMac
+B-219,SMC
+B-220,Tcell (CD8)
+B-222,SMC
+B-224,Capillary
+B-226,AT1
+B-229,DC
+B-230,AlveolarFib
+B-231,Pericyte
+B-233,LymphaticEndo
+B-234,AlveolarFib
+B-238,AT2
+B-239,Artery
+B-240,Capillary
+B-241,Pericyte
+B-242,AT1
+B-243,Bcell
+B-244,Artery
+B-245,AT2
+B-246,AlveolarFib
+B-247,AT2
+B-248,Capillary
+B-249,AlveolarFib
+B-250,AlveolarFib
+B-252,InflamMac
+B-255,Capillary
+B-257,Vein
+B-262,AT1
+B-263,LymphaticEndo
+B-264,AlveolarFib
+B-265,AlveolarFib
+B-267,Artery
+B-269,AT2
+B-270,SMC
+B-272,AT2
+B-274,DC
+B-277,AT1
+B-278,AT1
+B-279,Pericyte
+B-283,AT1
+B-284,Capillary
+B-285,Pericyte
+B-287,Pericyte
+B-288,AdventitialFib
+B-289,AdventitialFib
+B-295,Capillary
+B-296,AdventitialFib
+B-297,AT1
+B-299,InterstitialMac
+B-301,SMC
+B-303,Artery
+B-311,Pericyte
+B-312,SMC
+B-315,AT2
+B-316,Artery
+B-317,Tcell (CD4)
+B-318,SMC
+B-321,Artery
+B-323,AlveolarFib
+B-325,Artery
+B-331,AT1
+B-332,SMC
+B-333,DC
+B-335,Pericyte
+B-338,AT1
+B-341,SMC
+B-346,Artery
+B-347,Pericyte
+B-349,AT2
+B-351,AT2
+B-352,Capillary
+B-355,AlveolarMac
+B-357,Bcell
+B-358,AT2
+B-360,Pericyte
+B-362,AT2
+B-363,ClubEpi
+B-364,AT1
+B-366,SMC
+B-367,PatrolMac
+B-370,Capillary
+B-371,Capillary
+B-372,Capillary
+B-374,InterstitialMac
+B-375,AT2
+B-377,SMC
+B-378,Pericyte
+B-379,AT2
+B-380,AdventitialFib
+B-384,Tcell (CD8)
+B-386,SMC
+B-387,Capillary
+B-388,AT2
+B-389,Capillary
+B-390,Artery
+B-393,AT2
+B-394,Capillary
+B-395,SMC
+B-396,Neutrophil
+B-398,Bcell
+B-401,Capillary
+B-402,AT1
+B-404,PatrolMac
+B-408,AT1
+B-409,Artery
+B-411,AT1
+B-414,Pericyte
+B-416,AT1
+B-417,Pericyte
+B-418,AT2
+B-420,AT2
+B-421,AT1
+B-422,Capillary
+B-424,Vein
+B-425,AT2
+B-426,SCMF
+B-428,Artery
+B-429,AT1
+B-431,AT2
+B-433,AlveolarFib
+B-434,AT1
+B-435,InflamMac
+B-436,AT1
+B-437,InterstitialMac
+B-440,AT2
+B-441,Capillary
+B-442,LymphaticEndo
+B-443,AT1
+B-444,AdventitialFib
+B-448,InflamMac
+B-449,AT2
+B-454,AlveolarFib
+B-457,SMC
+B-459,LymphaticEndo
+B-462,AT2
+B-463,AT2
+B-464,AT2
+B-465,LymphaticEndo
+B-466,AT1
+B-467,Artery
+B-469,AT2
+B-470,DC
+B-471,AT1
+B-472,Pericyte
+B-473,AT2
+B-474,InterstitialMac
+B-475,Artery
+B-476,Artery
+B-478,Capillary
+B-479,Artery
+B-480,AT2
+B-483,Capillary
+B-485,AT1
+B-488,AdventitialFib
+B-489,AT1
+B-490,Neutrophil
+B-491,AT1
+B-494,AT1
+B-495,Capillary
+B-496,Capillary
+B-498,Artery
+B-502,Pericyte
+B-504,AT2
+B-506,AT1
+B-509,Capillary
+B-511,Artery
+B-512,Capillary
+B-515,pDC
+B-516,Capillary
+B-518,PatrolMac
+B-519,Capillary
+B-521,AT1
+B-522,Capillary
+B-523,Bcell
+B-524,Capillary
+B-525,AT2
+B-526,Pericyte
+B-528,AT2
+B-531,Pericyte
+B-532,LymphaticEndo
+B-533,Capillary
+B-534,SMC
+B-536,AT2
+B-539,AT1
+B-542,AT1
+B-543,AT2
+B-547,Artery
+B-548,Vein
+B-550,pDC
+B-551,AT1
+B-553,Capillary
+B-557,LymphaticEndo
+B-559,pDC
+B-563,AT1
+B-564,Capillary
+B-565,Artery
+B-570,Capillary
+B-571,AT1
+B-573,AlveolarFib
+B-574,DC
+B-577,Bcell
+B-581,Capillary
+B-582,AT2
+B-583,Pericyte
+B-586,PatrolMac
+B-588,PatrolMac
+B-589,AT1
+B-591,Capillary
+B-593,AT1
+B-596,Capillary
+B-597,AT2
+B-598,AT1
+B-600,Capillary
+B-603,AT1
+B-605,SMC
+B-606,AT2
+B-607,Vein
+B-609,AT2
+B-611,Capillary
+B-613,AT1
+B-614,SMC
+B-615,Pericyte
+B-618,DC
+B-620,InterstitialMac
+B-621,Artery
+B-623,AT1
+B-624,AT2
+B-627,Artery
+B-630,SMC
+B-631,Artery
+B-633,Capillary
+B-634,LymphaticEndo
+B-636,Pericyte
+B-640,AT1
+B-641,Capillary
+B-644,Artery
+B-645,Pericyte
+B-646,DC
+B-648,Vein
+B-650,Artery
+B-653,Pericyte
+B-654,InflamMac
+B-660,DC
+B-662,Capillary
+B-666,Artery
+B-668,Pericyte
+B-669,AT2
+B-670,AT1
+B-675,Pericyte
+B-678,Bcell
+B-681,Capillary
+B-682,Pericyte
+B-687,AT1
+B-690,AT1
+B-696,Pericyte
+B-699,AT1
+B-704,Capillary
+B-706,InterstitialMac
+B-707,DC
+B-712,AT1
+B-713,AT1
+B-717,Vein
+B-718,Pericyte
+B-719,Artery
+B-720,AlveolarMac
+B-721,AT2
+B-723,PatrolMac
+B-725,Vein
+B-727,Artery
+B-728,Capillary
+B-729,PatrolMac
+B-730,Capillary
+B-733,InterstitialMac
+B-735,InflamMac
+B-736,AT1
+B-738,AT2
+B-740,PatrolMac
+B-741,Pericyte
+B-742,Pericyte
+B-743,Bcell
+B-744,AT2
+B-746,AlveolarFib
+B-750,AT2
+B-751,Pericyte
+B-754,Bcell
+B-757,AT2
+B-758,AT2
+B-760,AT2
+B-761,Capillary
+B-763,Bcell
+B-764,Vein
+B-765,Artery
+B-766,PatrolMac
+B-768,InflamMac
+B-769,Tcell (CD4)
+B-770,pDC
+B-771,AdventitialFib
+B-772,Neutrophil
+B-774,Capillary
+B-775,SMC
+B-776,Pericyte
+B-777,Artery
+B-778,SMC
+B-779,AdventitialFib
+B-781,AlveolarMac
+B-783,Vein
+B-784,AT1
+B-786,AlveolarMac
+B-789,AT1
+B-790,Bcell
+B-795,Bcell
+B-796,Capillary
+B-798,AT1
+B-799,Pericyte
+B-803,DC
+B-805,AT2
+B-808,Artery
+B-809,InflamMac
+B-813,SMC
+B-814,AT1
+B-815,InflamMac
+B-818,AT1
+B-820,Pericyte
+B-823,AdventitialFib
+B-826,AT2
+B-827,PatrolMac
+B-829,AT1
+B-833,Artery
+B-834,InflamMac
+B-835,AT2
+B-836,InflamMac
+B-838,Bcell
+B-839,AdventitialFib
+B-842,Artery
+B-843,Artery
+B-845,Pericyte
+B-848,Vein
+B-849,AT2
+B-850,Vein
+B-851,PatrolMac
+B-853,InflamMac
+B-854,Capillary
+B-855,AlveolarFib
+B-856,AT2
+B-859,AT2
+B-861,Vein
+B-863,LymphaticEndo
+B-866,Pericyte
+B-868,LymphaticEndo
+B-869,Pericyte
+B-870,Capillary
+B-874,Pericyte
+B-876,AlveolarFib
+B-880,Tcell (CD8)
+B-881,AlveolarFib
+B-882,AT2
+B-885,InflamMac
+B-887,AT1
+B-889,AT1
+B-890,pDC
+B-892,Capillary
+B-893,Pericyte
+B-894,LymphaticEndo
+B-897,InflamMac
+B-900,AT1
+B-906,AT1
+B-910,AT2
+B-911,InflamMac
+B-913,Capillary
+B-914,AT1
+B-915,Capillary
+B-916,Capillary
+B-918,AT2
+B-920,InflamMac
+B-922,PatrolMac
+B-925,Pericyte
+B-926,Vein
+B-928,InflamMac
+B-933,Artery
+B-935,Artery
+B-941,SMC
+B-943,AlveolarFib
+B-945,Capillary
+B-946,InflamMac
+B-947,AT1
+B-948,Pericyte
+B-949,AT2
+B-951,AT2
+B-953,Artery
+B-956,Neutrophil
+B-958,Capillary
+B-960,Capillary
+B-961,AT2
+B-963,AT2
+B-966,AlveolarMac
+B-974,Capillary
+B-975,AT1
+B-980,Pericyte
+B-984,Bcell
+B-985,AT2
+B-986,AT2
+B-988,AT1
+B-991,Pericyte
+B-992,PatrolMac
+B-993,InterstitialMac
+B-994,LymphaticEndo
+B-995,Capillary
+B-996,AT2
+B-997,Artery
+B-998,Artery
+B-1001,Pericyte
+B-1002,Pericyte
+B-1005,AT1
+B-1006,AdventitialFib
+B-1007,Vein
+B-1011,InterstitialMac
+B-1013,AT1
+B-1017,AT2
+B-1020,SMC
+B-1024,SMC
+B-1025,Pericyte
+B-1026,AT2
+B-1027,AT2
+B-1029,Bcell
+B-1031,SCMF
+B-1032,InflamMac
+B-1037,InterstitialMac
+B-1038,Vein
+B-1042,SMC
+B-1047,AT2
+B-1049,SMC
+B-1050,InflamMac
+B-1052,Artery
+B-1054,SMC
+B-1058,Bcell
+B-1059,AdventitialFib
+B-1062,AlveolarMac
+B-1065,Pericyte
+B-1066,AlveolarMac
+B-1068,Artery
+B-1069,Neutrophil
+B-1075,InflamMac
+B-1082,AT1
+B-1083,AT2
+B-1086,LymphaticEndo
+B-1087,SMC
+B-1088,AT2
+B-1090,Artery
+B-1091,LymphaticEndo
+B-1092,InflamMac
+B-1093,AT1
+B-1094,Artery
+B-1096,Capillary
+B-1098,Bcell
+B-1099,Artery
+B-1100,Artery
+B-1101,Vein
+B-1103,SMC
+B-1104,AT1
+B-1105,AT1
+B-1106,DC
+B-1109,LymphaticEndo
+B-1110,pDC
+B-1111,SMC
+B-1112,AT2
+B-1114,AlveolarFib
+B-1116,Pericyte
+B-1118,AlveolarMac
+B-1119,PatrolMac
+B-1121,Capillary
+B-1122,AT1
+B-1124,SMC
+B-1125,AT2
+B-1127,Pericyte
+B-1129,InflamMac
+B-1131,AT1
+B-1132,Pericyte
+B-1135,AT2
+B-1136,Pericyte
+B-1138,AT1
+B-1141,Artery
+B-1143,Bcell
+B-1144,SMC
+B-1145,Vein
+B-1148,AT2
+B-1149,AT1
+B-1150,Pericyte
+B-1154,SCMF
+B-1155,AlveolarMac
+B-1158,pDC
+B-1162,Bcell
+B-1165,AT2
+B-1166,Pericyte
+B-1168,Bcell
+B-1170,AT2
+B-1174,AlveolarFib
+B-1175,SMC
+B-1176,Bcell
+B-1177,Capillary
+B-1180,Capillary
+B-1182,Pericyte
+B-1184,Bcell
+B-1187,Bcell
+B-1188,AlveolarFib
+B-1189,AT2
+B-1193,Capillary
+B-1194,Capillary
+B-1197,AT2
+B-1203,PatrolMac
+B-1205,SMC
+B-1206,AT2
+B-1207,PatrolMac
+B-1208,Pericyte
+B-1210,SCMF
+B-1213,Bcell
+B-1216,Artery
+B-1218,AT1
+B-1219,AT1
+B-1221,AT2
+B-1227,Vein
+B-1228,SMC
+B-1235,AT2
+B-1236,Artery
+B-1238,Neutrophil
+B-1239,Capillary
+B-1243,LymphaticEndo
+B-1248,SMC
+B-1249,Bcell
+B-1250,Artery
+B-1251,SMC
+B-1252,PatrolMac
+B-1254,AT2
+B-1256,Capillary
+B-1258,AT1
+B-1259,Pericyte
+B-1260,Capillary
+B-1262,Capillary
+B-1263,Capillary
+B-1266,SMC
+B-1267,AT1
+B-1268,AT1
+B-1270,Pericyte
+B-1272,AlveolarFib
+B-1273,Capillary
+B-1274,Capillary
+B-1275,AT1
+B-1276,PatrolMac
+B-1277,AlveolarFib
+B-1278,Capillary
+B-1279,AT2
+B-1280,DC
+B-1281,LymphaticEndo
+B-1282,Capillary
+B-1283,Bcell
+B-1284,Pericyte
+B-1288,AdventitialFib
+B-1289,Pericyte
+B-1293,AT2
+B-1295,SMC
+B-1296,SMC
+B-1298,SMC
+B-1299,Pericyte
+B-1302,Capillary
+B-1306,Capillary
+B-1307,Pericyte
+B-1310,SMC
+B-1311,AT1
+B-1314,AT2
+B-1315,PatrolMac
+B-1316,Capillary
+B-1317,Pericyte
+B-1319,Pericyte
+B-1322,AT2
+B-1326,AT2
+B-1327,Pericyte
+B-1330,AT2
+B-1331,AT2
+B-1332,LymphaticEndo
+B-1337,AT2
+B-1339,AlveolarFib
+B-1341,Pericyte
+B-1344,SMC
+B-1345,AlveolarMac
+B-1346,Artery
+B-1353,AT1
+B-1357,Capillary
+B-1358,AT2
+B-1359,AT2
+B-1362,Capillary
+B-1366,AT1
+B-1367,Capillary
+B-1371,DC
+B-1373,Pericyte
+B-1375,AT2
+B-1377,Artery
+B-1378,Pericyte
+B-1381,Artery
+B-1382,PatrolMac
+B-1385,LymphaticEndo
+B-1387,AT2
+B-1389,PatrolMac
+B-1391,AT1
+B-1393,AT2
+B-1395,Pericyte
+B-1400,Artery
+B-1404,InterstitialMac
+B-1407,AT2
+B-1416,AT1
+B-1420,AT2
+B-1423,SCMF
+B-1425,pDC
+B-1427,SMC
+B-1428,AT2
+B-1429,Capillary
+B-1430,SMC
+B-1431,Capillary
+B-1434,Vein
+B-1439,SMC
+B-1441,AT2
+B-1442,AT2
+B-1445,AT2
+B-1447,SMC
+B-1456,Bcell
+B-1457,AlveolarFib
+B-1458,SMC
+B-1459,pDC
+B-1460,Bcell
+B-1461,Bcell
+B-1462,DC
+B-1463,AT1
+B-1464,AlveolarFib
+B-1465,AlveolarFib
+B-1466,Tcell (CD4)
+B-1468,AT1
+B-1470,PatrolMac
+B-1472,Pericyte
+B-1473,CiliatedEpi
+B-1474,ClubEpi
+B-1475,Capillary
+B-1476,Pericyte
+B-1477,AT1
+B-1479,InflamMac
+B-1480,InflamMac
+B-1481,Vein
+B-1482,AdventitialFib
+B-1485,ClubEpi
+B-1486,InflamMac
+B-1488,Pericyte
+B-1489,ClubEpi
+B-1490,InflamMac
+B-1493,PatrolMac
+B-1495,Bcell
+B-1497,InflamMac
+B-1498,AlveolarFib
+B-1499,ClubEpi
+B-1500,AlveolarFib
+B-1501,CiliatedEpi
+B-1503,AT1
+B-1504,AdventitialFib
+B-1506,AlveolarFib
+B-1507,AlveolarFib
+B-1508,Capillary
+B-1511,pDC
+B-1512,InflamMac
+B-1513,SMC
+B-1514,Vein
+B-1515,AdventitialFib
+B-1516,Artery
+B-1517,Artery
+B-1519,Vein
+B-1523,Tcell (CD8)
+B-1526,InflamMac
+B-1531,CiliatedEpi
+B-1532,Pericyte
+B-1534,PatrolMac
+B-1535,AdventitialFib
+B-1536,PatrolMac
+B-1538,Capillary
+B-1539,AT1
+B-1540,AlveolarFib
+B-1541,AT2
+B-1542,Capillary
+B-1543,Capillary
+B-1545,SMC
+B-1546,InterstitialMac
+B-1548,AT1
+B-1550,AlveolarFib
+B-1551,Vein
+B-1553,AT1
+B-1555,AdventitialFib
+B-1556,Pericyte
+B-1557,CiliatedEpi
+B-1558,AlveolarMac
+B-1560,Artery
+B-1562,AT1
+B-1563,Artery
+B-1564,Artery
+B-1565,SMC
+B-1566,Artery
+B-1567,SMC
+B-1569,SMC
+B-1570,InflamMac
+B-1571,SMC
+B-1574,Capillary
+B-1575,ClubEpi
+B-1577,AlveolarFib
+B-1578,Pericyte
+B-1579,InterstitialMac
+B-1580,AdventitialFib
+B-1581,Vein
+B-1582,pDC
+B-1583,PatrolMac
+B-1584,LymphaticEndo
+B-1585,AlveolarMac
+B-1587,Pericyte
+B-1588,CiliatedEpi
+B-1589,AlveolarFib
+B-1591,InflamMac
+B-1592,ClubEpi
+B-1595,CiliatedEpi
+B-1596,ClubEpi
+B-1598,PatrolMac
+B-1600,Artery
+B-1601,AT2
+B-1602,Capillary
+B-1603,AlveolarFib
+B-1604,Vein
+B-1605,AlveolarFib
+B-1606,InterstitialMac
+B-1609,SMC
+B-1611,SMC
+B-1612,AlveolarFib
+B-1613,Pericyte
+B-1614,LymphaticEndo
+B-1615,AT1
+B-1617,SMC
+B-1618,AT1
+B-1619,Artery
+B-1620,AlveolarFib
+B-1621,SMC
+B-1622,Tcell (CD8)
+B-1623,SMC
+B-1626,Tcell (CD4)
+B-1627,LymphaticEndo
+B-1628,AdventitialFib
+B-1629,AT1
+B-1630,Pericyte
+B-1631,Artery
+B-1632,CiliatedEpi
+B-1633,Vein
+B-1638,SMC
+B-1640,Artery
+B-1642,AT1
+B-1645,AlveolarFib
+B-1646,InterstitialMac
+B-1648,AdventitialFib
+B-1649,SMC
+B-1654,Capillary
+B-1655,AdventitialFib
+B-1659,AT1
+B-1661,AdventitialFib
+B-1663,PatrolMac
+B-1664,AT2
+B-1665,Tcell (CD4)
+B-1666,Tcell (CD8)
+B-1667,AlveolarFib
+B-1668,InflamMac
+B-1669,SMC
+B-1672,SMC
+B-1673,Pericyte
+B-1674,InflamMac
+B-1676,InflamMac
+B-1678,Bcell
+B-1680,SMC
+B-1681,AlveolarFib
+B-1682,Vein
+B-1685,InflamMac
+B-1686,CiliatedEpi
+B-1689,Vein
+B-1691,ClubEpi
+B-1693,SMC
+B-1694,InterstitialMac
+B-1695,Vein
+B-1696,LymphaticEndo
+B-1698,AlveolarFib
+B-1700,ClubEpi
+B-1701,SMC
+B-1702,Capillary
+B-1703,CiliatedEpi
+B-1704,SMC
+B-1709,Vein
+B-1710,AlveolarFib
+B-1711,Vein
+B-1712,CiliatedEpi
+B-1713,Vein
+B-1715,AlveolarMac
+B-1721,PatrolMac
+B-1722,Vein
+B-1723,AT2
+B-1724,AlveolarFib
+B-1726,CiliatedEpi
+B-1727,SMC
+B-1729,Capillary
+B-1731,Capillary
+B-1732,AlveolarFib
+B-1733,CiliatedEpi
+B-1736,Capillary
+B-1737,PatrolMac
+B-1739,Pericyte
+B-1742,SMC
+B-1744,LymphaticEndo
+B-1745,ClubEpi
+B-1746,ClubEpi
+B-1747,AlveolarFib
+B-1750,AT1
+B-1753,SMC
+B-1754,AT1
+B-1755,AT1
+B-1759,PatrolMac
+B-1760,AdventitialFib
+B-1761,Artery
+B-1762,InflamMac
+B-1763,Tcell (CD4)
+B-1767,AdventitialFib
+B-1768,AdventitialFib
+B-1773,CiliatedEpi
+B-1775,SMC
+B-1776,AdventitialFib
+B-1778,Capillary
+B-1780,CiliatedEpi
+B-1781,AlveolarFib
+B-1785,InterstitialMac
+B-1788,SMC
+B-1789,SMC
+B-1790,pDC
+B-1793,SMC
+B-1795,Pericyte
+B-1797,Tcell (CD4)
+B-1804,AlveolarFib
+B-1805,AlveolarFib
+B-1806,SMC
+B-1812,AdventitialFib
+B-1813,AlveolarFib
+B-1815,AdventitialFib
+B-1816,SMC
+B-1819,AdventitialFib
+B-1821,ClubEpi
+B-1825,InflamMac
+B-1830,SMC
+B-1831,AdventitialFib
+B-1832,SMC
+B-1839,CiliatedEpi
+B-1841,Pericyte
+B-1843,SMC
+B-1844,InflamMac
+B-1845,AT2
+B-1848,SMC
+B-1849,AlveolarFib
+B-1851,AlveolarFib
+B-1852,PatrolMac
+B-1854,ClubEpi
+B-1862,SMC
+B-1867,AdventitialFib
+B-1868,AlveolarMac
+B-1870,LymphaticEndo
+B-1872,CiliatedEpi
+B-1873,Artery
+B-1875,PatrolMac
+B-1876,SMC
+B-1878,ClubEpi
+B-1882,Tcell (CD4)
+B-1883,Tcell (CD4)
+B-1887,AlveolarFib
+B-1888,Pericyte
+B-1889,AlveolarFib
+B-1890,Vein
+B-1892,LymphaticEndo
+B-1895,Capillary
+B-1897,ClubEpi
+B-1902,AT2
+B-1905,SMC
+B-1911,ClubEpi
+B-1913,Vein
+B-1920,AlveolarFib
+B-1921,AdventitialFib
+B-1923,SMC
+B-1924,Tcell (CD4)
+B-1925,AlveolarFib
+B-1927,Tcell (CD4)
+B-1928,Bcell
+B-1930,CiliatedEpi
+B-1931,AlveolarFib
+B-1933,ClubEpi
+B-1935,CiliatedEpi
+B-1936,ClubEpi
+B-1939,Bcell
+B-1940,ClubEpi
+B-1941,ClubEpi
+B-1943,SMC
+B-1945,CiliatedEpi
+B-1947,ClubEpi
+B-1949,ClubEpi
+B-1950,PatrolMac
+B-1951,Tcell (CD4)
+B-1952,Bcell
+B-1953,CiliatedEpi
+B-1954,CiliatedEpi
+B-1955,AlveolarMac
+B-1960,AlveolarFib
+B-1963,AdventitialFib
+B-1964,ClubEpi
+B-1967,ClubEpi
+B-1970,AlveolarMac
+B-1972,CiliatedEpi
+B-1973,AlveolarFib
+B-1974,LymphaticEndo
+B-1975,ClubEpi
+B-1978,DC
+B-1979,AdventitialFib
+B-1981,Tcell (CD4)
+B-1982,InflamMac
+B-1983,Tcell (CD4)
+B-1984,AdventitialFib
+B-1985,AT1
+B-1990,CiliatedEpi
+B-1992,CiliatedEpi
+B-1993,SMC
+B-1996,InflamMac
+B-1997,Tcell (CD4)
+B-2000,CiliatedEpi
+B-2003,ClubEpi
+B-2005,CiliatedEpi
+B-2007,SMC
+B-2008,Tcell (CD4)
+B-2010,SMC
+B-2013,SMC
+B-2014,InflamMac
+B-2016,CiliatedEpi
+B-2020,ClubEpi
+B-2021,Tcell (CD4)
+B-2022,SMC
+B-2023,CiliatedEpi
+B-2024,Tcell (CD4)
+B-2026,ClubEpi
+B-2028,InflamMac
+B-2030,ClubEpi
+B-2031,CiliatedEpi
+B-2033,ClubEpi
+B-2034,ClubEpi
+B-2035,Tcell (CD4)
+B-2037,Tcell (CD4)
+B-2039,CiliatedEpi
+B-2040,ClubEpi
+B-2042,ClubEpi
+B-2046,Tcell (CD4)
+B-2048,Pericyte
+B-2052,ClubEpi
+B-2053,CiliatedEpi
+B-2054,ClubEpi
+B-2056,Neutrophil
+B-2057,AT1
+B-2059,ClubEpi
+B-2060,ClubEpi
+B-2061,AdventitialFib
+B-2063,CiliatedEpi
+B-2065,AlveolarFib
+B-2066,ClubEpi
+B-2067,InflamMac
+B-2069,ClubEpi
+B-2070,Tcell (CD4)
+B-2071,Tcell (CD4)
+B-2073,ClubEpi
+B-2074,ClubEpi
+B-2075,Tcell (CD4)
+B-2076,AlveolarFib
+B-2079,AT1
+B-2081,ClubEpi
+B-2083,LymphaticEndo
+B-2086,InterstitialMac
+B-2088,Tcell (CD4)
+B-2092,SMC
+B-2093,CiliatedEpi
+B-2100,AT1
+B-2101,AT1
+B-2102,AlveolarFib
+B-2103,InflamMac
+B-2104,ClubEpi
+B-2107,AlveolarFib
+B-2108,InflamMac
+B-2109,CiliatedEpi
+B-2117,AlveolarFib
+B-2118,CiliatedEpi
+B-2123,SCMF
+B-2124,ClubEpi
+B-2126,InflamMac
+B-2129,ClubEpi
+B-2131,ClubEpi
+B-2132,Tcell (CD8)
+B-2133,AT1
+B-2134,ClubEpi
+B-2135,AT1
+B-2140,Artery
+B-2143,ClubEpi
+B-2144,ClubEpi
+B-2145,Tcell (CD4)
+B-2147,Tcell (CD4)
+B-2150,SMC
+B-2151,ClubEpi
+B-2152,InflamMac
+B-2154,AlveolarFib
+B-2156,SMC
+B-2157,Tcell (CD4)
+B-2159,Tcell (CD8)
+B-2160,SMC
+B-2162,Tcell (CD4)
+B-2163,ClubEpi
+B-2166,AlveolarFib
+B-2168,ClubEpi
+B-2169,LymphaticEndo
+B-2172,Neutrophil
+B-2173,CiliatedEpi
+B-2174,SMC
+B-2176,Artery
+B-2177,Tcell (CD4)
+B-2178,CiliatedEpi
+B-2179,AlveolarFib
+B-2180,CiliatedEpi
+B-2183,Tcell (CD4)
+B-2185,InflamMac
+B-2188,AlveolarFib
+B-2191,ClubEpi
+B-2194,Tcell (CD4)
+B-2197,SMC
+B-2198,CiliatedEpi
+B-2199,AT1
+B-2200,InflamMac
+B-2202,Artery
+B-2204,Tcell (CD4)
+B-2205,AlveolarFib
+B-2208,CiliatedEpi
+B-2210,CiliatedEpi
+B-2211,CiliatedEpi
+B-2218,CiliatedEpi
+B-2224,ClubEpi
+B-2228,CiliatedEpi
+B-2230,AT1
+B-2231,ClubEpi
+B-2232,AlveolarFib
+B-2236,Tcell (CD4)
+B-2240,ClubEpi
+B-2241,ClubEpi
+B-2243,AlveolarFib
+B-2245,Tcell (CD4)
+B-2247,AT1
+B-2248,SMC
+B-2251,ClubEpi
+B-2252,Tcell (CD4)
+B-2254,Tcell (CD4)
+B-2256,ClubEpi
+B-2258,CiliatedEpi
+B-2261,ClubEpi
+B-2263,CiliatedEpi
+B-2265,InflamMac
+B-2275,ClubEpi
+B-2279,ClubEpi
+B-2283,ClubEpi
+B-2284,CiliatedEpi
+B-2285,CiliatedEpi
+B-2286,ClubEpi
+B-2287,ClubEpi
+B-2288,InflamMac
+B-2289,Tcell (CD4)
+B-2290,ClubEpi
+B-2291,InterstitialMac
+B-2293,CiliatedEpi
+B-2294,ClubEpi
+B-2298,Pericyte
+B-2299,AlveolarMac
+B-2301,AT1
+B-2302,PatrolMac
+B-2303,AT1
+B-2305,Bcell
+B-2306,InflamMac
+B-2308,Bcell
+B-2309,AT2
+B-2313,AT2
+B-2314,AT2
+B-2315,InflamMac
+B-2316,AT1
+B-2318,AT2
+B-2319,Capillary
+B-2320,SMC
+B-2321,PatrolMac
+B-2323,AT2
+B-2329,PatrolMac
+B-2330,AdventitialFib
+B-2332,AlveolarMac
+B-2333,Capillary
+B-2335,InterstitialMac
+B-2337,LymphaticEndo
+B-2339,PatrolMac
+B-2340,Bcell
+B-2341,InflamMac
+B-2342,SMC
+B-2343,Capillary
+B-2344,AT2
+B-2345,LymphaticEndo
+B-2350,Bcell
+B-2351,SMC
+B-2352,Pericyte
+B-2355,Vein
+B-2356,AT2
+B-2357,AT2
+B-2361,LymphaticEndo
+B-2362,InflamMac
+B-2365,AT1
+B-2368,Artery
+B-2369,Vein
+B-2370,DC
+B-2372,Vein
+B-2374,AT2
+B-2377,Vein
+B-2378,LymphaticEndo
+B-2381,Bcell
+B-2382,AT2
+B-2383,AT1
+B-2384,AT1
+B-2391,LymphaticEndo
+B-2393,AT1
+B-2395,AT2
+B-2396,AT1
+B-2397,Bcell
+B-2401,PatrolMac
+B-2402,Capillary
+B-2404,Vein
+B-2405,Capillary
+B-2406,AT1
+B-2407,AT2
+B-2415,SMC
+B-2416,AlveolarFib
+B-2417,Pericyte
+B-2418,Pericyte
+B-2419,LymphaticEndo
+B-2420,pDC
+B-2421,Tcell (CD4)
+B-2423,InflamMac
+B-2424,AT2
+B-2428,Capillary
+B-2429,AT1
+B-2430,AT2
+B-2431,AlveolarMac
+B-2432,Artery
+B-2436,DC
+B-2438,Bcell
+B-2439,AT2
+B-2441,SMC
+B-2442,AT2
+B-2444,SMC
+B-2447,Capillary
+B-2448,AT2
+B-2449,AT2
+B-2450,SMC
+B-2452,Bcell
+B-2453,AT2
+B-2455,LymphaticEndo
+B-2456,Capillary
+B-2458,Capillary
+B-2459,Bcell
+B-2460,Capillary
+B-2461,AT1
+B-2463,Vein
+B-2464,AT2
+B-2465,Capillary
+B-2466,AT2
+B-2469,InflamMac
+B-2471,AlveolarFib
+B-2472,Bcell
+B-2475,Pericyte
+B-2477,Capillary
+B-2481,AT2
+B-2484,Pericyte
+B-2485,AdventitialFib
+B-2489,AT1
+B-2490,InflamMac
+B-2492,AT2
+B-2494,AT2
+B-2495,Capillary
+B-2496,Capillary
+B-2497,Capillary
+B-2498,InflamMac
+B-2499,InflamMac
+B-2501,Pericyte
+B-2504,Pericyte
+B-2505,Capillary
+B-2506,AT1
+B-2507,Capillary
+B-2509,Bcell
+B-2510,InflamMac
+B-2511,pDC
+B-2513,Vein
+B-2517,SMC
+B-2518,AT1
+B-2519,AT1
+B-2520,AT2
+B-2521,Capillary
+B-2522,pDC
+B-2524,SMC
+B-2529,Vein
+B-2530,AlveolarFib
+B-2532,AT1
+B-2533,AT1
+B-2534,PatrolMac
+B-2535,SCMF
+B-2542,Pericyte
+B-2543,Capillary
+B-2545,LymphaticEndo
+B-2547,Pericyte
+B-2550,Pericyte
+B-2551,Capillary
+B-2558,InflamMac
+B-2559,Vein
+B-2562,AT2
+B-2565,SCMF
+B-2567,AlveolarFib
+B-2571,Capillary
+B-2573,AT2
+B-2574,Vein
+B-2575,Pericyte
+B-2579,Capillary
+B-2581,LymphaticEndo
+B-2584,Vein
+B-2585,SMC
+B-2586,Capillary
+B-2589,PatrolMac
+B-2590,SMC
+B-2593,AT1
+B-2597,AT2
+B-2598,Capillary
+B-2600,AdventitialFib
+B-2603,Capillary
+B-2605,Capillary
+B-2607,AT1
+B-2610,AT2
+B-2616,AT2
+B-2617,SMC
+B-2628,AlveolarFib
+B-2629,Pericyte
+B-2631,Tcell (CD4)
+B-2637,ClubEpi
+B-2638,InflamMac
+B-2640,ClubEpi
+B-2642,Pericyte
+B-2648,AT1
+B-2650,SMC
+B-2651,Tcell (CD4)
+B-2652,ClubEpi
+B-2653,AdventitialFib
+B-2655,AlveolarFib
+B-2656,Tcell (CD4)
+B-2657,AlveolarFib
+B-2658,Tcell (CD4)
+B-2659,AlveolarFib
+B-2661,Tcell (CD4)
+B-2662,Tcell (CD4)
+B-2663,DC
+B-2664,DC
+B-2665,CiliatedEpi
+B-2666,ClubEpi
+B-2667,Tcell (CD4)
+B-2669,DC
+B-2670,ClubEpi
+B-2672,SMC
+B-2674,Bcell
+B-2676,Bcell
+B-2677,Tcell (CD4)
+B-2679,SCMF
+B-2680,LymphaticEndo
+B-2681,ClubEpi
+B-2683,SMC
+B-2685,Tcell (CD4)
+B-2686,AlveolarFib
+B-2688,ClubEpi
+B-2689,AlveolarFib
+B-2691,Tcell (CD4)
+B-2694,CiliatedEpi
+B-2696,Tcell (CD4)
+B-2697,ClubEpi
+B-2698,ClubEpi
+B-2699,ClubEpi
+B-2702,SMC
+B-2704,AdventitialFib
+B-2705,Tcell (CD4)
+B-2706,SMC
+B-2707,Tcell (CD4)
+B-2708,Tcell (CD8)
+B-2710,CiliatedEpi
+B-2711,CiliatedEpi
+B-2712,AdventitialFib
+B-2713,AdventitialFib
+B-2714,SMC
+B-2717,Tcell (CD4)
+B-2719,SMC
+B-2722,ClubEpi
+B-2723,DC
+B-2724,AlveolarFib
+B-2725,SMC
+B-2726,AlveolarFib
+B-2727,Tcell (CD4)
+B-2728,AdventitialFib
+B-2729,ClubEpi
+B-2730,Tcell (CD4)
+B-2731,SMC
+B-2732,SMC
+B-2734,ClubEpi
+B-2737,Tcell (CD4)
+B-2739,Capillary
+B-2740,CiliatedEpi
+B-2743,PatrolMac
+B-2744,ClubEpi
+B-2745,AlveolarMac
+B-2746,Tcell (CD4)
+B-2747,Tcell (CD4)
+B-2749,AlveolarFib
+B-2751,CiliatedEpi
+B-2754,AlveolarFib
+B-2755,AdventitialFib
+B-2758,ClubEpi
+B-2760,ClubEpi
+B-2762,InflamMac
+B-2763,SMC
+B-2765,Bcell
+B-2767,Bcell
+B-2770,SMC
+B-2771,DC
+B-2773,ClubEpi
+B-2774,Tcell (CD4)
+B-2777,AlveolarFib
+B-2778,SMC
+B-2779,SMC
+B-2781,SMC
+B-2783,Tcell (CD4)
+B-2784,Tcell (CD4)
+B-2785,Tcell (CD4)
+B-2786,SMC
+B-2787,ClubEpi
+B-2788,Tcell (CD4)
+B-2789,AlveolarFib
+B-2790,SMC
+B-2791,AT1
+B-2792,DC
+B-2793,DC
+B-2795,SMC
+B-2796,DC
+B-2797,SMC
+B-2798,AdventitialFib
+B-2800,AlveolarFib
+B-2801,ClubEpi
+B-2804,LymphaticEndo
+B-2806,Tcell (CD4)
+B-2807,Tcell (CD4)
+B-2808,AlveolarFib
+B-2809,SMC
+B-2810,DC
+B-2811,Capillary
+B-2812,Tcell (CD4)
+B-2813,AlveolarFib
+B-2814,AdventitialFib
+B-2815,Neutrophil
+B-2816,DC
+B-2817,Tcell (CD4)
+B-2819,PatrolMac
+B-2820,ClubEpi
+B-2823,AlveolarFib
+B-2827,SCMF
+B-2828,Tcell (CD4)
+B-2831,SMC
+B-2835,Tcell (CD4)
+B-2836,Tcell (CD4)
+B-2838,DC
+B-2839,SMC
+B-2841,AlveolarMac
+B-2842,Tcell (CD4)
+B-2844,ClubEpi
+B-2846,Tcell (CD4)
+B-2847,InterstitialMac
+B-2848,Tcell (CD4)
+B-2849,AdventitialFib
+B-2853,CiliatedEpi
+B-2854,SMC
+B-2857,AlveolarFib
+B-2858,ClubEpi
+B-2859,SMC
+B-2861,Tcell (CD4)
+B-2862,Tcell (CD4)
+B-2863,AdventitialFib
+B-2865,Tcell (CD4)
+B-2866,LymphaticEndo
+B-2869,Tcell (CD4)
+B-2870,SMC
+B-2872,SMC
+B-2873,AdventitialFib
+B-2875,Neutrophil
+B-2877,Tcell (CD4)
+B-2879,Tcell (CD4)
+B-2880,Tcell (CD4)
+B-2882,Neutrophil
+B-2884,Tcell (CD4)
+B-2887,Tcell (CD4)
+B-2888,ClubEpi
+B-2889,Tcell (CD8)
+B-2890,SCMF
+B-2891,ClubEpi
+B-2892,AlveolarFib
+B-2896,ClubEpi
+B-2899,ClubEpi
+B-2901,Tcell (CD4)
+B-2902,Tcell (CD4)
+B-2903,ClubEpi
+B-2905,Tcell (CD4)
+B-2906,SMC
+B-2911,AlveolarFib
+B-2912,AdventitialFib
+B-2914,ClubEpi
+B-2917,ClubEpi
+B-2918,Tcell (CD4)
+B-2919,AlveolarFib
+B-2922,ClubEpi
+B-2927,AlveolarFib
+B-2929,DC
+B-2930,AdventitialFib
+B-2933,Tcell (CD8)
+B-2934,CiliatedEpi
+B-2936,AlveolarFib
+B-2937,Tcell (CD4)
+B-2938,SMC
+B-2939,Tcell (CD4)
+B-2940,DC
+B-2941,AlveolarFib
+B-2944,InflamMac
+B-2945,DC
+B-2946,ClubEpi
+B-2950,Tcell (CD4)
+B-2951,InflamMac
+B-2952,Neutrophil
+B-2953,ClubEpi
+B-2958,SMC
+B-2959,SMC
+B-2960,Tcell (CD4)
+B-2961,SMC
+B-2964,Tcell (CD4)
+B-2965,Tcell (CD4)
+B-2967,Tcell (CD4)
+B-2968,SMC
+B-2974,Tcell (CD4)
+B-2976,Neutrophil
+B-2979,Neutrophil
+B-2980,CiliatedEpi
+B-2982,Tcell (CD4)
+B-2985,SMC
+B-2986,SMC
+B-2988,Tcell (CD4)
+B-2989,SCMF
+B-2991,Tcell (CD4)
+B-2992,Tcell (CD4)
+B-2993,Tcell (CD4)
+B-2995,Tcell (CD4)
+B-3000,DC
+B-3004,Tcell (CD4)
+B-3005,Neutrophil
+B-3007,Tcell (CD4)
+B-3008,Neutrophil
+B-3012,AdventitialFib
+B-3014,Tcell (CD8)
+B-3018,Neutrophil
+B-3022,Tcell (CD4)
+B-3023,Neutrophil
+B-3029,Tcell (CD4)
+B-3030,Tcell (CD4)
+B-3038,Tcell (CD4)
+B-3041,Neutrophil
+B-3043,CiliatedEpi
+B-3046,InterstitialMac
+B-3051,AdventitialFib
+B-3054,Tcell (CD4)
+B-3066,AdventitialFib
+B-3068,Neutrophil
+B-3070,Neutrophil
+B-3071,Neutrophil
+B-3076,AlveolarFib
+B-3079,AT1
+B-3081,InflamMac
+B-3082,ClubEpi
+B-3083,LymphaticEndo
+B-3084,LymphaticEndo
+B-3085,CiliatedEpi
+B-3087,CiliatedEpi
+B-3088,Neutrophil
+B-3090,CiliatedEpi
+B-3091,AdventitialFib
+B-3092,AlveolarMac
+B-3093,CiliatedEpi
+B-3094,DC
+B-3095,CiliatedEpi
+B-3096,Capillary
+B-3097,Tcell (CD4)
+B-3098,SMC
+B-3100,Tcell (CD4)
+B-3101,AlveolarFib
+B-3102,Tcell (CD4)
+B-3103,Tcell (CD4)
+B-3104,CiliatedEpi
+B-3106,SMC
+B-3109,AlveolarFib
+B-3110,Tcell (CD4)
+B-3111,LymphaticEndo
+B-3112,Tcell (CD4)
+B-3113,DC
+B-3115,ClubEpi
+B-3118,SMC
+B-3119,ClubEpi
+B-3120,Artery
+B-3121,DC
+B-3122,Tcell (CD4)
+B-3124,CiliatedEpi
+B-3125,ClubEpi
+B-3130,Tcell (CD4)
+B-3131,Tcell (CD4)
+B-3132,CiliatedEpi
+B-3133,Tcell (CD4)
+B-3134,DC
+B-3135,Tcell (CD4)
+B-3137,CiliatedEpi
+B-3139,Tcell (CD4)
+B-3140,Tcell (CD4)
+B-3141,CiliatedEpi
+B-3143,CiliatedEpi
+B-3144,InflamMac
+B-3146,Tcell (CD4)
+B-3148,Bcell
+B-3152,AlveolarFib
+B-3159,AlveolarFib
+B-3160,Capillary
+B-3162,SMC
+B-3163,Tcell (CD4)
+B-3166,DC
+B-3167,AdventitialFib
+B-3169,Bcell
+B-3170,AdventitialFib
+B-3171,AdventitialFib
+B-3173,AlveolarFib
+B-3174,SMC
+B-3176,PatrolMac
+B-3177,AlveolarFib
+B-3178,Tcell (CD4)
+B-3179,AdventitialFib
+B-3180,AT2
+B-3182,Capillary
+B-3183,ClubEpi
+B-3185,SMC
+B-3186,CiliatedEpi
+B-3189,ClubEpi
+B-3190,InflamMac
+B-3191,Pericyte
+B-3192,CiliatedEpi
+B-3194,CiliatedEpi
+B-3195,DC
+B-3197,InflamMac
+B-3199,AT1
+B-3200,AlveolarFib
+B-3204,AlveolarFib
+B-3206,AdventitialFib
+B-3207,InflamMac
+B-3209,CiliatedEpi
+B-3210,SMC
+B-3211,DC
+B-3214,SMC
+B-3215,AT1
+B-3216,PatrolMac
+B-3217,AlveolarFib
+B-3218,ClubEpi
+B-3219,Capillary
+B-3220,Tcell (CD4)
+B-3221,ClubEpi
+B-3223,AdventitialFib
+B-3224,AlveolarFib
+B-3226,SMC
+B-3228,Bcell
+B-3229,AT2
+B-3232,AdventitialFib
+B-3233,Tcell (CD8)
+B-3235,Bcell
+B-3236,SMC
+B-3239,AlveolarFib
+B-3241,CiliatedEpi
+B-3242,CiliatedEpi
+B-3245,Tcell (CD4)
+B-3247,AlveolarFib
+B-3249,Capillary
+B-3250,AlveolarFib
+B-3251,ClubEpi
+B-3252,Tcell (CD4)
+B-3253,AT1
+B-3254,LymphaticEndo
+B-3255,InflamMac
+B-3256,SMC
+B-3257,PatrolMac
+B-3258,AlveolarFib
+B-3262,ClubEpi
+B-3263,Tcell (CD4)
+B-3267,AlveolarFib
+B-3271,AlveolarFib
+B-3273,DC
+B-3274,Tcell (CD4)
+B-3276,Tcell (CD4)
+B-3280,AdventitialFib
+B-3281,ClubEpi
+B-3282,ClubEpi
+B-3283,ClubEpi
+B-3284,ClubEpi
+B-3285,CiliatedEpi
+B-3287,AT1
+B-3288,CiliatedEpi
+B-3289,ClubEpi
+B-3291,LymphaticEndo
+B-3292,AlveolarMac
+B-3300,AlveolarFib
+B-3302,Tcell (CD4)
+B-3303,InflamMac
+B-3305,AdventitialFib
+B-3306,Tcell (CD4)
+B-3307,ClubEpi
+B-3308,Artery
+B-3310,SMC
+B-3311,Pericyte
+B-3313,CiliatedEpi
+B-3314,Bcell
+B-3316,Tcell (CD4)
+B-3317,SMC
+B-3320,ClubEpi
+B-3322,ClubEpi
+B-3324,AlveolarFib
+B-3325,AlveolarFib
+B-3327,DC
+B-3328,SCMF
+B-3329,Tcell (CD4)
+B-3330,ClubEpi
+B-3333,AT2
+B-3334,Tcell (CD4)
+B-3335,Tcell (CD4)
+B-3338,InterstitialMac
+B-3339,InflamMac
+B-3340,AlveolarFib
+B-3341,Tcell (CD4)
+B-3342,LymphaticEndo
+B-3343,CiliatedEpi
+B-3344,Tcell (CD4)
+B-3345,CiliatedEpi
+B-3346,Tcell (CD4)
+B-3347,Tcell (CD4)
+B-3348,AdventitialFib
+B-3349,Tcell (CD4)
+B-3350,SMC
+B-3354,InflamMac
+B-3355,AlveolarFib
+B-3356,Artery
+B-3358,ClubEpi
+B-3363,Tcell (CD4)
+B-3364,Tcell (CD4)
+B-3365,AdventitialFib
+B-3366,AT1
+B-3367,Tcell (CD4)
+B-3369,Tcell (CD4)
+B-3370,ClubEpi
+B-3371,AlveolarFib
+B-3373,PatrolMac
+B-3375,AdventitialFib
+B-3376,AlveolarFib
+B-3377,Capillary
+B-3379,Bcell
+B-3381,AlveolarFib
+B-3383,CiliatedEpi
+B-3385,ClubEpi
+B-3386,DC
+B-3387,ClubEpi
+B-3389,CiliatedEpi
+B-3390,AdventitialFib
+B-3392,Tcell (CD4)
+B-3393,CiliatedEpi
+B-3397,AlveolarFib
+B-3398,AlveolarFib
+B-3399,CiliatedEpi
+B-3400,AT1
+B-3402,ClubEpi
+B-3403,CiliatedEpi
+B-3409,AlveolarFib
+B-3413,Tcell (CD4)
+B-3414,Tcell (CD4)
+B-3416,CiliatedEpi
+B-3418,AlveolarMac
+B-3419,DC
+B-3426,AT1
+B-3427,ClubEpi
+B-3428,InflamMac
+B-3432,Tcell (CD4)
+B-3436,LymphaticEndo
+B-3437,AT1
+B-3439,SMC
+B-3440,AlveolarFib
+B-3445,SMC
+B-3446,Tcell (CD4)
+B-3447,ClubEpi
+B-3448,Tcell (CD4)
+B-3449,CiliatedEpi
+B-3450,AlveolarFib
+B-3451,AdventitialFib
+B-3452,CiliatedEpi
+B-3453,Artery
+B-3459,CiliatedEpi
+B-3461,DC
+B-3462,CiliatedEpi
+B-3464,LymphaticEndo
+B-3466,Tcell (CD4)
+B-3468,PatrolMac
+B-3471,InterstitialMac
+B-3473,Artery
+B-3474,CiliatedEpi
+B-3476,AdventitialFib
+B-3478,LymphaticEndo
+B-3480,Bcell
+B-3482,AT1
+B-3484,CiliatedEpi
+B-3489,AdventitialFib
+B-3490,PatrolMac
+B-3492,CiliatedEpi
+B-3493,ClubEpi
+B-3494,Tcell (CD4)
+B-3495,SMC
+B-3496,CiliatedEpi
+B-3497,Tcell (CD8)
+B-3499,CiliatedEpi
+B-3500,AlveolarFib
+B-3510,SMC
+B-3511,Artery
+B-3512,InterstitialMac
+B-3513,PatrolMac
+B-3516,CiliatedEpi
+B-3519,CiliatedEpi
+B-3522,AT2
+B-3523,ClubEpi
+B-3524,Tcell (CD8)
+B-3525,AlveolarFib
+B-3527,Tcell (CD4)
+B-3529,InflamMac
+B-3532,AlveolarFib
+B-3536,CiliatedEpi
+B-3537,InflamMac
+B-3538,AT1
+B-3542,ClubEpi
+B-3545,Pericyte
+B-3546,CiliatedEpi
+B-3551,AdventitialFib
+B-3557,Tcell (CD4)
+B-3560,SMC
+B-3561,AT2
+B-3564,Bcell
+B-3566,Tcell (CD4)
+B-3567,AT1
+B-3568,CiliatedEpi
+B-3571,ClubEpi
+B-3573,PatrolMac
+B-3575,InflamMac
+B-3578,Tcell (CD4)
+B-3580,Tcell (CD4)
+B-3581,Tcell (CD4)
+B-3583,Bcell
+B-3584,AT2
+B-3586,AT2
+B-3587,Tcell (CD4)
+B-3597,AlveolarMac
+B-3599,ClubEpi
+B-3600,AdventitialFib
+B-3602,ClubEpi
+B-3603,Tcell (CD4)
+B-3606,Tcell (CD4)
+B-3607,Tcell (CD4)
+B-3609,Tcell (CD4)
+B-3610,Tcell (CD4)
+B-3611,Tcell (CD4)
+B-3612,Neutrophil
+B-3613,DC
+B-3617,Tcell (CD8)
+B-3624,Tcell (CD4)
+B-3625,Tcell (CD4)
+B-3629,AdventitialFib
+B-3630,Tcell (CD4)
+B-3631,Tcell (CD4)
+B-3632,CiliatedEpi
+B-3634,DC
+B-3635,Tcell (CD4)
+B-3639,Tcell (CD4)
+B-3641,Tcell (CD4)
+B-3642,SMC
+B-3643,Neutrophil
+B-3644,Tcell (CD4)
+B-3646,Tcell (CD4)
+B-3647,Tcell (CD4)
+B-3648,DC
+B-3649,Tcell (CD4)
+B-3650,AdventitialFib
+B-3653,Tcell (CD4)
+B-3657,PatrolMac
+B-3658,Tcell (CD4)
+B-3660,ClubEpi
+B-3661,CiliatedEpi
+B-3665,AdventitialFib
+B-3666,Neutrophil
+B-3670,Tcell (CD4)
+B-3672,AdventitialFib
+B-3673,InterstitialMac
+B-3676,Tcell (CD4)
+B-3678,Tcell (CD4)
+B-3681,AdventitialFib
+B-3683,Tcell (CD4)
+B-3684,Tcell (CD4)
+B-3685,ClubEpi
+B-3686,SMC
+B-3690,AdventitialFib
+B-3693,Tcell (CD4)
+B-3694,Tcell (CD4)
+B-3695,Tcell (CD4)
+B-3696,Tcell (CD4)
+B-3697,Neutrophil
+B-3699,Tcell (CD8)
+B-3700,Tcell (CD4)
+B-3702,Tcell (CD4)
+B-3703,Tcell (CD4)
+B-3706,Tcell (CD4)
+B-3708,Tcell (CD4)
+B-3715,Tcell (CD4)
+B-3717,InterstitialMac
+B-3718,Neutrophil
+B-3720,Tcell (CD4)
+B-3726,Tcell (CD4)
+B-3727,Tcell (CD4)
+B-3731,AT2
+B-3732,Tcell (CD4)
+B-3733,Tcell (CD4)
+B-3734,Tcell (CD4)
+B-3735,CiliatedEpi
+B-3736,Tcell (CD4)
+B-3738,CiliatedEpi
+B-3740,Tcell (CD4)
+B-3746,AdventitialFib
+B-3747,Tcell (CD4)
+B-3748,Tcell (CD4)
+B-3751,Tcell (CD4)
+B-3755,Tcell (CD4)
+B-3756,Tcell (CD4)
+B-3757,AdventitialFib
+B-3760,Vein
+B-3761,CiliatedEpi
+B-3762,DC
+B-3763,CiliatedEpi
+B-3764,CiliatedEpi
+B-3765,Tcell (CD4)
+B-3766,AdventitialFib
+B-3767,AdventitialFib
+B-3768,Tcell (CD8)
+B-3769,Tcell (CD4)
+B-3773,Bcell
+B-3774,SMC
+B-3778,Neutrophil
+B-3779,Tcell (CD4)
+B-3781,AdventitialFib
+B-3785,Tcell (CD4)
+B-3786,ClubEpi
+B-3787,Tcell (CD4)
+B-3789,DC
+B-3790,InterstitialMac
+B-3791,SMC
+B-3794,ClubEpi
+B-3796,Tcell (CD4)
+B-3797,Tcell (CD4)
+B-3799,AdventitialFib
+B-3802,CiliatedEpi
+B-3804,DC
+B-3805,Tcell (CD4)
+B-3809,SMC
+B-3810,CiliatedEpi
+B-3811,Tcell (CD4)
+B-3813,AdventitialFib
+B-3816,AdventitialFib
+B-3817,AdventitialFib
+B-3818,Tcell (CD4)
+B-3819,Tcell (CD4)
+B-3822,CiliatedEpi
+B-3824,DC
+B-3826,Tcell (CD4)
+B-3827,CiliatedEpi
+B-3831,Tcell (CD4)
+B-3832,Tcell (CD4)
+B-3834,SMC
+B-3836,SMC
+B-3838,Tcell (CD4)
+B-3839,Tcell (CD4)
+B-3841,Neutrophil
+B-3845,Neutrophil
+B-3846,AdventitialFib
+B-3855,Tcell (CD4)
+B-3856,Tcell (CD4)
+B-3857,Tcell (CD4)
+B-3859,AdventitialFib
+B-3863,ClubEpi
+B-3866,DC
+B-3867,Tcell (CD4)
+B-3875,SMC
+B-3876,Tcell (CD4)
+B-3879,pDC
+B-3882,Neutrophil
+B-3887,Tcell (CD4)
+B-3888,Tcell (CD4)
+B-3889,Tcell (CD4)
+B-3890,Tcell (CD8)
+B-3891,Tcell (CD4)
+B-3897,Tcell (CD4)
+B-3910,Tcell (CD4)
+B-3911,PatrolMac
+B-3914,Tcell (CD4)
+B-3922,Vein
+B-3927,AlveolarFib
+B-3928,SMC
+B-3929,SMC
+B-3930,AT1
+B-3931,Tcell (CD4)
+B-3932,CiliatedEpi
+B-3933,AdventitialFib
+B-3934,SMC
+B-3935,CiliatedEpi
+B-3936,Tcell (CD8)
+B-3938,ClubEpi
+B-3941,AlveolarFib
+B-3942,AT1
+B-3943,Tcell (CD4)
+B-3944,LymphaticEndo
+B-3948,Pericyte
+B-3949,AlveolarFib
+B-3951,LymphaticEndo
+B-3952,Tcell (CD4)
+B-3953,AlveolarFib
+B-3955,AlveolarFib
+B-3957,Tcell (CD4)
+B-3958,AdventitialFib
+B-3959,SMC
+B-3960,AdventitialFib
+B-3961,AlveolarFib
+B-3962,CiliatedEpi
+B-3963,InflamMac
+B-3964,Tcell (CD4)
+B-3965,AlveolarFib
+B-3966,Tcell (CD4)
+B-3967,Tcell (CD4)
+B-3968,AlveolarFib
+B-3969,CiliatedEpi
+B-3970,AlveolarFib
+B-3972,SMC
+B-3973,AdventitialFib
+B-3974,AdventitialFib
+B-3976,AlveolarFib
+B-3978,AlveolarFib
+B-3979,Tcell (CD4)
+B-3980,SMC
+B-3981,Tcell (CD4)
+B-3982,AlveolarFib
+B-3987,InterstitialMac
+B-3988,ClubEpi
+B-3989,ClubEpi
+B-3990,AlveolarFib
+B-3991,AlveolarFib
+B-3993,DC
+B-3994,ClubEpi
+B-3995,SMC
+B-3996,CiliatedEpi
+B-3997,SCMF
+B-3999,AdventitialFib
+B-4000,AlveolarFib
+B-4001,CiliatedEpi
+B-4002,SMC
+B-4003,Tcell (CD4)
+B-4004,ClubEpi
+B-4006,CiliatedEpi
+B-4009,Bcell
+B-4013,CiliatedEpi
+B-4014,CiliatedEpi
+B-4015,Tcell (CD4)
+B-4017,AdventitialFib
+B-4018,Tcell (CD4)
+B-4020,AdventitialFib
+B-4021,CiliatedEpi
+B-4023,LymphaticEndo
+B-4024,ClubEpi
+B-4028,AlveolarFib
+B-4029,Tcell (CD4)
+B-4030,CiliatedEpi
+B-4031,SMC
+B-4032,AlveolarFib
+B-4033,Neutrophil
+B-4035,CiliatedEpi
+B-4036,SMC
+B-4038,SMC
+B-4039,AlveolarFib
+B-4040,LymphaticEndo
+B-4041,PatrolMac
+B-4042,SMC
+B-4044,AlveolarFib
+B-4046,AdventitialFib
+B-4047,AdventitialFib
+B-4048,AlveolarFib
+B-4051,AlveolarFib
+B-4052,AT1
+B-4054,SMC
+B-4055,SMC
+B-4056,AT1
+B-4059,AdventitialFib
+B-4060,AlveolarFib
+B-4061,Pericyte
+B-4062,CiliatedEpi
+B-4063,CiliatedEpi
+B-4064,Tcell (CD4)
+B-4065,AlveolarFib
+B-4066,Tcell (CD4)
+B-4068,SMC
+B-4069,AlveolarFib
+B-4070,Bcell
+B-4071,ClubEpi
+B-4072,AdventitialFib
+B-4073,ClubEpi
+B-4074,AdventitialFib
+B-4075,AdventitialFib
+B-4077,SMC
+B-4078,AdventitialFib
+B-4079,AlveolarFib
+B-4080,Tcell (CD4)
+B-4081,ClubEpi
+B-4082,Bcell
+B-4083,InflamMac
+B-4084,CiliatedEpi
+B-4085,LymphaticEndo
+B-4089,CiliatedEpi
+B-4090,Tcell (CD4)
+B-4091,SMC
+B-4092,ClubEpi
+B-4094,SMC
+B-4095,ClubEpi
+B-4097,Tcell (CD4)
+B-4098,AdventitialFib
+B-4099,AdventitialFib
+B-4100,AT1
+B-4101,ClubEpi
+B-4102,AlveolarFib
+B-4104,AT1
+B-4105,AlveolarFib
+B-4106,SMC
+B-4107,CiliatedEpi
+B-4108,AdventitialFib
+B-4109,AdventitialFib
+B-4111,AdventitialFib
+B-4112,SMC
+B-4113,Bcell
+B-4114,Neutrophil
+B-4117,Tcell (CD4)
+B-4118,AlveolarFib
+B-4119,Bcell
+B-4123,Bcell
+B-4125,SCMF
+B-4126,AdventitialFib
+B-4127,PatrolMac
+B-4128,ClubEpi
+B-4129,Tcell (CD4)
+B-4130,InflamMac
+B-4132,ClubEpi
+B-4133,AlveolarFib
+B-4135,ClubEpi
+B-4136,AlveolarFib
+B-4137,Tcell (CD4)
+B-4138,SMC
+B-4141,Tcell (CD4)
+B-4142,AdventitialFib
+B-4143,AlveolarFib
+B-4145,CiliatedEpi
+B-4146,AlveolarFib
+B-4147,AlveolarFib
+B-4149,Tcell (CD4)
+B-4151,SMC
+B-4152,AdventitialFib
+B-4153,SMC
+B-4154,SMC
+B-4155,Pericyte
+B-4156,LymphaticEndo
+B-4158,AlveolarMac
+B-4160,CiliatedEpi
+B-4162,InflamMac
+B-4163,Bcell
+B-4166,Tcell (CD4)
+B-4168,SMC
+B-4169,AdventitialFib
+B-4170,ClubEpi
+B-4171,CiliatedEpi
+B-4172,AdventitialFib
+B-4173,CiliatedEpi
+B-4174,Tcell (CD4)
+B-4175,Tcell (CD4)
+B-4176,ClubEpi
+B-4178,AlveolarFib
+B-4179,Bcell
+B-4180,ClubEpi
+B-4181,ClubEpi
+B-4182,AdventitialFib
+B-4183,CiliatedEpi
+B-4184,InterstitialMac
+B-4185,CiliatedEpi
+B-4187,ClubEpi
+B-4189,AlveolarFib
+B-4191,LymphaticEndo
+B-4192,CiliatedEpi
+B-4193,AlveolarFib
+B-4195,ClubEpi
+B-4197,AT1
+B-4198,Tcell (CD4)
+B-4199,CiliatedEpi
+B-4202,CiliatedEpi
+B-4205,Tcell (CD4)
+B-4207,CiliatedEpi
+B-4209,AdventitialFib
+B-4210,Tcell (CD4)
+B-4213,AdventitialFib
+B-4217,Tcell (CD4)
+B-4218,AlveolarFib
+B-4220,CiliatedEpi
+B-4221,AT1
+B-4222,CiliatedEpi
+B-4223,AlveolarFib
+B-4225,SMC
+B-4226,AT1
+B-4231,CiliatedEpi
+B-4232,AlveolarFib
+B-4233,ClubEpi
+B-4236,Tcell (CD4)
+B-4238,AdventitialFib
+B-4239,AT1
+B-4240,AdventitialFib
+B-4242,CiliatedEpi
+B-4244,CiliatedEpi
+B-4246,SMC
+B-4248,AdventitialFib
+B-4249,AlveolarFib
+B-4251,ClubEpi
+B-4252,AdventitialFib
+B-4254,ClubEpi
+B-4257,Tcell (CD8)
+B-4258,AlveolarFib
+B-4259,AlveolarFib
+B-4260,DC
+B-4261,Tcell (CD4)
+B-4263,CiliatedEpi
+B-4265,AdventitialFib
+B-4273,ClubEpi
+B-4278,AdventitialFib
+B-4279,CiliatedEpi
+B-4282,LymphaticEndo
+B-4283,AT2
+B-4284,AlveolarFib
+B-4286,Artery
+B-4287,Pericyte
+B-4288,AT2
+B-4289,AT2
+B-4293,AT2
+B-4296,SMC
+B-4297,Vein
+B-4299,AT2
+B-4301,Bcell
+B-4303,AT1
+B-4304,Capillary
+B-4306,Artery
+B-4307,AT2
+B-4308,AlveolarFib
+B-4310,Neutrophil
+B-4312,Artery
+B-4314,Bcell
+B-4316,AT1
+B-4319,AT1
+B-4320,AT2
+B-4321,AT2
+B-4322,SMC
+B-4323,Capillary
+B-4324,InterstitialMac
+B-4327,AT1
+B-4330,Pericyte
+B-4333,Artery
+B-4335,PatrolMac
+B-4336,SMC
+B-4339,InflamMac
+B-4341,AT1
+B-4345,Bcell
+B-4346,PatrolMac
+B-4347,AT2
+B-4349,AT2
+B-4351,Artery
+B-4352,SMC
+B-4354,AdventitialFib
+B-4355,SCMF
+B-4356,Capillary
+B-4357,Artery
+B-4358,AT2
+B-4359,Pericyte
+B-4360,AT1
+B-4364,AT1
+B-4365,AT1
+B-4366,Capillary
+B-4367,Artery
+B-4368,AlveolarFib
+B-4370,SMC
+B-4373,Vein
+B-4376,AT1
+B-4378,Artery
+B-4379,Artery
+B-4380,SMC
+B-4381,AT1
+B-4383,AT1
+B-4385,AT1
+B-4386,AT1
+B-4389,Artery
+B-4390,SMC
+B-4392,LymphaticEndo
+B-4394,AT1
+B-4395,Vein
+B-4397,Bcell
+B-4398,InflamMac
+B-4400,Capillary
+B-4401,AdventitialFib
+B-4403,AT2
+B-4404,Pericyte
+B-4406,InflamMac
+B-4407,SMC
+B-4408,PatrolMac
+B-4409,InterstitialMac
+B-4415,Capillary
+B-4416,InterstitialMac
+B-4417,LymphaticEndo
+B-4420,AT2
+B-4421,SMC
+B-4422,AT2
+B-4424,LymphaticEndo
+B-4427,Artery
+B-4430,AT2
+B-4431,AT1
+B-4433,Artery
+B-4435,Artery
+B-4436,SCMF
+B-4437,Bcell
+B-4441,AT2
+B-4443,AlveolarFib
+B-4444,SMC
+B-4445,Pericyte
+B-4446,Artery
+B-4447,LymphaticEndo
+B-4449,AT1
+B-4450,Pericyte
+B-4452,SMC
+B-4453,Pericyte
+B-4455,Capillary
+B-4456,Bcell
+B-4459,Pericyte
+B-4461,AT1
+B-4462,Artery
+B-4464,AT2
+B-4466,AlveolarFib
+B-4468,AT1
+B-4469,Pericyte
+B-4470,Capillary
+B-4474,Artery
+B-4476,Artery
+B-4478,SMC
+B-4481,Pericyte
+B-4483,Artery
+B-4486,Capillary
+B-4487,AlveolarFib
+B-4489,Capillary
+B-4492,InterstitialMac
+B-4494,Pericyte
+B-4498,DC
+B-4503,Vein
+B-4504,AT2
+B-4505,InterstitialMac
+B-4508,Pericyte
+B-4509,Pericyte
+B-4510,AT2
+B-4513,SMC
+B-4514,AT2
+B-4515,AT1
+B-4516,AT1
+B-4518,Vein
+B-4520,SMC
+B-4523,Vein
+B-4524,AT1
+B-4526,Pericyte
+B-4527,Pericyte
+B-4534,Bcell
+B-4535,AT1
+B-4536,Artery
+B-4537,LymphaticEndo
+B-4539,InflamMac
+B-4541,InterstitialMac
+B-4544,Capillary
+B-4545,SCMF
+B-4546,Artery
+B-4547,SCMF
+B-4548,Capillary
+B-4549,AT2
+B-4550,AT1
+B-4551,AT1
+B-4552,InterstitialMac
+B-4554,InterstitialMac
+B-4555,AT2
+B-4556,AdventitialFib
+B-4557,Bcell
+B-4560,AlveolarFib
+B-4562,Vein
+B-4563,AT2
+B-4564,Vein
+B-4566,AdventitialFib
+B-4567,Artery
+B-4568,Pericyte
+B-4571,Artery
+B-4573,Capillary
+B-4574,SCMF
+B-4575,Capillary
+B-4576,Pericyte
+B-4579,Vein
+B-4581,AT1
+B-4582,AdventitialFib
+B-4583,SMC
+B-4584,Vein
+B-4586,AT2
+B-4589,pDC
+B-4590,Bcell
+B-4594,SCMF
+B-4597,Artery
+B-4599,AdventitialFib
+B-4602,AT1
+B-4603,Capillary
+B-4606,SMC
+B-4607,AT1
+B-4608,AT2
+B-4612,AdventitialFib
+B-4614,AT2
+B-4615,Artery
+B-4616,Pericyte
+B-4618,AT1
+B-4622,Capillary
+B-4623,AT2
+B-4625,Vein
+B-4628,InflamMac
+B-4629,SMC
+B-4631,AT1
+B-4632,SMC
+B-4635,AT2
+B-4636,AT2
+B-4641,AT1
+B-4642,AT1
+B-4643,SCMF
+B-4646,LymphaticEndo
+B-4648,AT1
+B-4652,Capillary
+B-4653,AT2
+B-4654,Pericyte
+B-4655,Artery
+B-4658,Artery
+B-4666,SMC
+B-4667,Artery
+B-4671,AT2
+B-4674,SMC
+B-4676,AT1
+B-4683,AlveolarMac
+B-4684,SMC
+B-4687,Capillary
+B-4691,Artery
+B-4692,AT2
+B-4693,Artery
+B-4697,AT2
+B-4698,AT1
+B-4701,SMC
+B-4702,SMC
+B-4703,Artery
+B-4704,AT2
+B-4708,AT1
+B-4717,AdventitialFib
+B-4718,SCMF
+B-4721,AT2
+B-4725,AdventitialFib
+B-4730,AT2
+B-4731,AT2
+B-4732,Artery
+B-4733,AT1
+B-4736,SMC
+B-4738,LymphaticEndo
+B-4739,InflamMac
+B-4740,Capillary
+B-4746,Artery
+B-4748,Pericyte
+B-4749,Bcell
+B-4750,pDC
+B-4751,SCMF
+B-4753,AT2
+B-4755,Artery
+B-4758,SCMF
+B-4759,AT2
+B-4761,AdventitialFib
+B-4764,Artery
+B-4765,Artery
+B-4767,Artery
+B-4768,Capillary
+B-4769,SCMF
+B-4770,AT1
+B-4771,SMC
+B-4772,SCMF
+B-4775,AT2
+B-4776,SMC
+B-4781,AT2
+B-4782,AlveolarFib
+B-4786,Capillary
+B-4790,AT2
+B-4791,LymphaticEndo
+B-4792,LymphaticEndo
+B-4793,Artery
+B-4799,AT2
+B-4800,AT1
+B-4804,AT2
+B-4809,SMC
+B-4813,SMC
+B-4814,SCMF
+B-4815,Artery
+B-4819,SMC
+B-4820,Vein
+B-4825,Artery
+B-4827,SMC
+B-4828,AT2
+B-4829,SMC
+B-4830,Artery
+B-4832,AdventitialFib
+B-4834,Artery
+B-4835,Artery
+B-4837,AT2
+B-4842,SMC
+B-4846,AdventitialFib
+B-4848,SMC
+B-4849,SMC
+B-4850,Pericyte
+B-4852,AT2
+B-4855,InterstitialMac
+B-4857,AT2
+B-4858,Capillary
+B-4860,Artery
+B-4861,AdventitialFib
+B-4862,AT2
+B-4864,AT2
+B-4866,Artery
+B-4876,SCMF
+B-4877,SMC
+B-4878,AdventitialFib
+B-4879,InflamMac
+B-4880,Pericyte
+B-4881,Artery
+B-4882,SMC
+B-4885,SMC
+B-4887,InflamMac
+B-4888,SCMF
+B-4890,Artery
+B-4891,Artery
+B-4899,Artery
+B-4900,Vein
+B-4905,AdventitialFib
+B-4906,Artery
+B-4907,Artery
+B-4912,Artery
+B-4918,AdventitialFib
+B-4920,SMC
+B-4922,Artery
+B-4923,AdventitialFib
+B-4927,AdventitialFib
+B-4928,LymphaticEndo
+B-4932,Artery
+B-4935,AdventitialFib
+B-4937,SMC
+B-4940,AT2
+B-4942,SMC
+B-4948,SMC
+B-4952,SMC
+B-4956,SMC
+B-4961,pDC
+B-4962,SMC
+B-4963,AT2
+B-4969,AT2
+B-4970,SMC
+B-4976,Artery
+B-4980,Capillary
+B-4988,Vein
+B-4990,PatrolMac
+B-4991,Vein
+B-4993,AlveolarFib
+B-4995,AT1
+B-4996,AlveolarMac
+B-4997,LymphaticEndo
+B-4999,Pericyte
+B-5001,Pericyte
+B-5002,Artery
+B-5003,Vein
+B-5004,Pericyte
+B-5005,AT1
+B-5006,Capillary
+B-5008,AT1
+B-5010,AlveolarMac
+B-5014,AlveolarMac
+B-5016,Pericyte
+B-5018,Capillary
+B-5020,AT2
+B-5021,AT1
+B-5022,AT2
+B-5023,PatrolMac
+B-5028,Vein
+B-5029,InflamMac
+B-5030,AlveolarFib
+B-5031,Artery
+B-5032,AT2
+B-5033,AlveolarFib
+B-5035,Tcell (CD8)
+B-5036,Vein
+B-5037,SMC
+B-5038,Tcell (CD4)
+B-5039,Bcell
+B-5040,SMC
+B-5042,pDC
+B-5045,AdventitialFib
+B-5046,Artery
+B-5047,Pericyte
+B-5050,Capillary
+B-5054,AT2
+B-5057,AT2
+B-5059,PatrolMac
+B-5060,AT2
+B-5061,AT2
+B-5062,Vein
+B-5063,AT2
+B-5066,AlveolarMac
+B-5067,AT1
+B-5068,AT2
+B-5070,Capillary
+B-5072,AlveolarFib
+B-5073,AlveolarFib
+B-5074,Vein
+B-5075,Capillary
+B-5076,AT2
+B-5079,Tcell (CD8)
+B-5080,Pericyte
+B-5082,InterstitialMac
+B-5084,DC
+B-5090,Artery
+B-5091,SMC
+B-5092,Capillary
+B-5097,AT1
+B-5101,AT2
+B-5102,AT1
+B-5104,Vein
+B-5107,SMC
+B-5108,Capillary
+B-5111,AlveolarFib
+B-5112,AT2
+B-5113,AT1
+B-5114,AT1
+B-5117,AlveolarFib
+B-5118,SMC
+B-5120,DC
+B-5123,InflamMac
+B-5124,SMC
+B-5125,Pericyte
+B-5126,AT1
+B-5127,AdventitialFib
+B-5128,LymphaticEndo
+B-5129,Pericyte
+B-5131,Pericyte
+B-5132,AT1
+B-5137,pDC
+B-5138,Vein
+B-5142,Pericyte
+B-5143,SMC
+B-5144,AT2
+B-5145,AT2
+B-5146,Artery
+B-5147,Capillary
+B-5149,Artery
+B-5150,SMC
+B-5151,AT1
+B-5152,Artery
+B-5153,AT1
+B-5154,AT2
+B-5155,PatrolMac
+B-5157,SMC
+B-5159,AT1
+B-5163,AT2
+B-5164,AT2
+B-5166,AlveolarFib
+B-5168,Pericyte
+B-5174,AT1
+B-5176,Bcell
+B-5179,Pericyte
+B-5180,AT2
+B-5185,Bcell
+B-5186,Bcell
+B-5191,SMC
+B-5192,Capillary
+B-5193,LymphaticEndo
+B-5195,Capillary
+B-5197,Vein
+B-5200,Bcell
+B-5201,AT1
+B-5203,InflamMac
+B-5206,AT1
+B-5207,Pericyte
+B-5208,LymphaticEndo
+B-5210,Capillary
+B-5215,Capillary
+B-5218,Capillary
+B-5219,Pericyte
+B-5222,Tcell (CD8)
+B-5223,Capillary
+B-5225,SMC
+B-5228,SMC
+B-5229,AT1
+B-5230,SMC
+B-5233,SMC
+B-5235,LymphaticEndo
+B-5238,AT2
+B-5242,SMC
+B-5243,AT2
+B-5246,AdventitialFib
+B-5247,AT1
+B-5248,AT2
+B-5254,AT2
+B-5255,InflamMac
+B-5256,Pericyte
+B-5257,AT2
+B-5258,Capillary
+B-5259,AT1
+B-5261,InflamMac
+B-5263,Capillary
+B-5265,InflamMac
+B-5266,AT1
+B-5268,PatrolMac
+B-5271,AT2
+B-5272,Pericyte
+B-5277,AT1
+B-5278,AdventitialFib
+B-5279,AT1
+B-5280,Artery
+B-5282,AT1
+B-5283,Vein
+B-5286,SMC
+B-5287,AT1
+B-5289,AT2
+B-5290,AT2
+B-5293,AT1
+B-5294,Bcell
+B-5304,AT2
+B-5305,SMC
+B-5306,AT1
+B-5310,SMC
+B-5312,Vein
+B-5313,AT1
+B-5314,AT2
+B-5315,AT1
+B-5316,AT1
+B-5317,AlveolarMac
+B-5318,AT2
+B-5319,AT2
+B-5324,Pericyte
+B-5326,LymphaticEndo
+B-5327,SMC
+B-5329,Pericyte
+B-5331,AT1
+B-5332,Capillary
+B-5333,Vein
+B-5334,Capillary
+B-5335,Pericyte
+B-5336,LymphaticEndo
+B-5339,Tcell (CD8)
+B-5343,AT1
+B-5362,AlveolarFib
+B-5370,SMC
